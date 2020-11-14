@@ -1,0 +1,13 @@
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\bin\Debug\netcoreapp3.1\csharp-examples.exe
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\bin\Debug\netcoreapp3.1\csharp-examples.deps.json
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\bin\Debug\netcoreapp3.1\csharp-examples.runtimeconfig.json
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\bin\Debug\netcoreapp3.1\csharp-examples.runtimeconfig.dev.json
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\bin\Debug\netcoreapp3.1\csharp-examples.dll
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\bin\Debug\netcoreapp3.1\csharp-examples.pdb
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\obj\Debug\netcoreapp3.1\csharp-examples.csprojAssemblyReference.cache
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\obj\Debug\netcoreapp3.1\csharp-examples.AssemblyInfoInputs.cache
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\obj\Debug\netcoreapp3.1\csharp-examples.AssemblyInfo.cs
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\obj\Debug\netcoreapp3.1\csharp-examples.csproj.CoreCompileInputs.cache
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\obj\Debug\netcoreapp3.1\csharp-examples.dll
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\obj\Debug\netcoreapp3.1\csharp-examples.pdb
+C:\Programacao\Bootcamp .Net - DIO\Primeiros passos com DOTNET\progdotnet\csharp-exemples\revisao\obj\Debug\netcoreapp3.1\csharp-examples.genruntimeconfig.cache
